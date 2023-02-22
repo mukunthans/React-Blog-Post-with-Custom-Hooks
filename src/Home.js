@@ -12,6 +12,7 @@ const Home = ({posts}) => {
           </p>
         )
       }
+      
     </main>
   )
 }

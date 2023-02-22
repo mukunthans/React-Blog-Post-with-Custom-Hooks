@@ -14,6 +14,7 @@ const Post = ({post}) => {
                   : `${(post.body).slice(0,25)}...`
             }
         </p>
+       
     </article>
   )
 }
